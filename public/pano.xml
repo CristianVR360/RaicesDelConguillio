@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="6.1.2" apprev="17873">
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" leveltilesize="510" levelbias="0.400" height="2048" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2048" preload="0" height="2048" predecode="0"/>
+      <level width="1024" preload="0" height="1024" predecode="0"/>
+      <level width="512" preload="0" height="512" predecode="0"/>
+      <level width="256" preload="1" height="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="109.105" fovmode="0">
+      <start fov="72.67" tilt="-88.9" projection="4" pan="-99.75"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1" pan="360"/>
+    </view>
+    <userdata tags="Humedal Santa Rosa de huichahue" latitude="-38.840526" datetime="01/01/1970 0:00" longitude="-72.469189" author="" nodeid="node2" info="" comment="" customnodeid="" description="" copyright="" title="Humedal Santa Rosa" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" border="1" width="180" textalpha="1" borderalpha="1" background="1" borderradius="1" height="20" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" enabled="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_disponible" url="5000000" description="Superficie Parcial: 0,51 ha&#xa;Superficie servidumbre:0,03 ha&#xa;Superficie total: 0,54 ha" tilt="-60.14" target="_blank" title="01" id="01" pan="-235.08"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,036 ha&#xa;Superficie total: 0,54 ha" tilt="-68.88" target="_blank" title="02" id="02" pan="-207.46"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,036 ha&#xa;Superficie total: 0,54 ha" tilt="-69.64" target="_blank" title="03" id="03" pan="-161.97"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,036 ha&#xa;Superficie total: 0,54 ha" tilt="-61.58" target="_blank" title="04" id="04" pan="-131.67"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0&#xa;Superficie total: 0,50 ha" tilt="-50.58" target="_blank" title="05" id="05" pan="-115.04"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,068 ha&#xa;Superficie total: 0,57 ha" tilt="-77.4" target="_blank" title="10" id="10" pan="-114.19"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,021 ha&#xa;Superficie total: 0,52 ha" tilt="-86.29" target="_blank" title="11" id="11" pan="-172.32"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,021 ha&#xa;Superficie total: 0,52 ha" tilt="-78.75" target="_blank" title="12" id="12" pan="-249.54"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,087 ha&#xa;Superficie total: 0,59 ha" tilt="-66.86" target="_blank" title="13" id="13" pan="-257.23"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,51 ha&#xa;Superficie servidumbre:0,049 ha&#xa;Superficie total: 0,56 ha" tilt="-67.6" target="_blank" title="14" id="14" pan="-287.81"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,044 ha&#xa;Superficie total: 0,54 ha" tilt="-63.4" target="_blank" title="15" id="15" pan="-323.1"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 1,97 ha&#xa;Superficie servidumbre:0,03 ha&#xa;Superficie total: 2 ha" tilt="-66.06" target="_blank" title="07" id="07" pan="-67.73"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,51 ha&#xa;Superficie servidumbre:0&#xa;Superficie total: 0,51 ha" tilt="-72.45" target="_blank" title="08" id="08" pan="-6.71"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,52 ha&#xa;Superficie servidumbre:0,03 ha&#xa;Superficie total: 0,54 ha" tilt="-58.2" target="_blank" title="06" id="06" pan="-104.5"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,5 ha&#xa;Superficie servidumbre:0&#xa;Superficie total: 0,5 ha" tilt="-53.59" target="_blank" title="16" id="16" pan="-340.38"/>
+      <hotspot skinid="ht_disponible" url="" description="Superficie Parcial: 0,50 ha&#xa;Superficie servidumbre:0,008 ha&#xa;Superficie total: 0,51 ha" tilt="-76.7" target="_blank" title="09" id="09" pan="-335.93"/>
+      <hotspot skinid="ht_tag_georeferencia_mediumRight" url="" description=" 13 km | ⏰ 10 min" tilt="-1.04" target="_blank" title="Padre Las Casas" id="Point01" pan="-185.17"/>
+      <hotspot skinid="ht_tag_georeferencia_mediumLeft" url="" description=" 18 km | ⏰ 20 min" tilt="0.23" target="_blank" title="Temuco" id="Point01" pan="-181.56"/>
+      <hotspot skinid="ht_tag_georeferencia_mediumRight" url="" description="1 km " tilt="-11.82" target="_blank" title="Rio Vilcún" id="Point01" pan="-202.41"/>
+      <hotspot skinid="ht_tag_georeferencia_largeLeft" url="" description="40 km | ⏰ 30 min" tilt="-1.41" target="_blank" title="Cunco" id="Point01" pan="-31.44"/>
+      <hotspot skinid="ht_tag_georeferencia_largeRight" url="" description="72 km | ⏰ 1h" tilt="-0.53" target="_blank" title="Melipeuco" id="Point01" pan="-32.47"/>
+      <hotspot skinid="ht_tag_georeferencia_smallLeft" url="" description="90 km | ⏰ 1h 20 min" tilt="-0.11" target="_blank" title="Parque Nacional Conguillio" id="Point02" pan="-30.69"/>
+      <hotspot skinid="ht_tag_georeferencia_smallRight" url="" description="115 km | ⏰ 2h" tilt="1.12504e-08" target="_blank" title="Icalma" id="Point03" pan="-33.39"/>
+      <hotspot skinid="ht_tag_georeferencia_smallRightYellow" url="" description="120 km | ⏰ 2h" tilt="0.36" target="_blank" title="Paso Fronterizo Icalma" id="Point01" pan="-40.27"/>
+      <hotspot skinid="ht_tag_georeferencia_mediumRight" url="" description="80 km | ⏰ 1h 10 min" tilt="-0.51" target="_blank" title="Villarrica" id="Point01" pan="-68.75"/>
+      <hotspot skinid="ht_tag_georeferencia_mediumRight_Blue" url="" description="" tilt="-31.82" target="_blank" title="Santa Rosa" id="Point01" pan="-215.99"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomin="0" softedge="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextprojections="0" invertwheel="0" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" speedwheel="1" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" leveltilesize="510" levelbias="0.400" height="2048" overlap="1" levelingroll="0" levelbiashidpi="1.000">
+      <level width="2048" preload="0" height="2048" predecode="0"/>
+      <level width="1024" preload="0" height="1024" predecode="0"/>
+      <level width="512" preload="0" height="512" predecode="0"/>
+      <level width="256" preload="1" height="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="-90" projection="4" pan="1.28"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1" pan="360"/>
+    </view>
+    <userdata tags="Humedal Santa Rosa de huichahue" latitude="-38.840524" datetime="01/01/1970 0:00" longitude="-72.469190" author="" nodeid="node3" info="" comment="" customnodeid="" description="" copyright="" title="default" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" border="1" width="180" textalpha="1" borderalpha="1" background="1" borderradius="1" height="20" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" enabled="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomin="0" softedge="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomfov="20" enabled="1" zoomout="0" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextprojections="0" invertwheel="0" simulatemass="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" speedwheel="1" rubberband="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" latitude="" datetime="" longitude="" author="" nodeid="master" info="" comment="" customnodeid="" description="" copyright="" title="" source=""/>
+  </masternode>
+</tour>

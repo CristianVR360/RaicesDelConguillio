@@ -164,7 +164,7 @@ const importDataFromJSON = async (filePath) => {
     const panorama = result.tour.panorama.find(p => p.$.id === 'node2');
 
     if (panorama && panorama.hotspots && panorama.hotspots.length > 0) {
-      for (const hotspot of hotspots) {
+      for (const hotspot of hotspots) {git
         await updateHotspotAttributes(hotspot.id, hotspot.description, hotspot.skinid, hotspot.url);
       }
       console.log('Datos importados correctamente');

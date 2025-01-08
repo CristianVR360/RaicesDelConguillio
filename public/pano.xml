@@ -1,365 +1,120 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<tour appversion="6.1.2" apprev="17873" start="node2">
-  <panorama id="node2">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node20" appversion="6.1.2" apprev="17873">
+  <panorama id="node20">
+    <input levelbias="0.400" width="2048" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" leveltilesize="510" levelingroll="0" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="107.97">
-      <start pan="-99.75" projection="4" tilt="-88.9" fov="72.67"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+    <view fovmode="0" pannorth="-126.871">
+      <start projection="4" fov="89.97" tilt="-62.55" pan="-156.88"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270" pan="360"/>
     </view>
-    <userdata description="" longitude="-72.469189" datetime="01/01/1970 0:00" copyright="" info="" author="" comment="" nodeid="node2" latitude="-38.840526" title="Humedal Santa Rosa" tags="Humedal Santa Rosa de huichahue" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="Superficie Parcial: 0,51 ha&#xA;Superficie servidumbre:0,03 ha&#xA;Superficie total: 0,54 ha" id="01" pan="-235.08" tilt="-60.14" target="_blank" title="01" url="5000000" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,036 ha&#xA;Superficie total: 0,54 ha" id="02" pan="-207.46" tilt="-68.88" target="_blank" title="02" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,036 ha&#xA;Superficie total: 0,54 ha" id="03" pan="-161.97" tilt="-69.64" target="_blank" title="03" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,036 ha&#xA;Superficie total: 0,54 ha" id="04" pan="-127.99" tilt="-61.32" target="_blank" title="04" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0&#xA;Superficie total: 0,50 ha" id="05" pan="-115.04" tilt="-50.58" target="_blank" title="05" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,068 ha&#xA;Superficie total: 0,57 ha" id="10" pan="-114.19" tilt="-77.4" target="_blank" title="10" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,021 ha&#xA;Superficie total: 0,52 ha" id="11" pan="-172.32" tilt="-86.29" target="_blank" title="11" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,021 ha&#xA;Superficie total: 0,52 ha" id="12" pan="-249.54" tilt="-78.75" target="_blank" title="12" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,087 ha&#xA;Superficie total: 0,59 ha" id="13" pan="-257.23" tilt="-66.86" target="_blank" title="13" url="" skinid="ht_noDisponible"/>
-      <hotspot description="Superficie Parcial: 0,51 ha&#xA;Superficie servidumbre:0,049 ha&#xA;Superficie total: 0,56 ha" id="14" pan="-287.81" tilt="-67.6" target="_blank" title="14" url="" skinid="ht_noDisponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,044 ha&#xA;Superficie total: 0,54 ha" id="15" pan="-323.1" tilt="-63.4" target="_blank" title="15" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 1,97 ha&#xA;Superficie servidumbre:0,03 ha&#xA;Superficie total: 2 ha" id="07" pan="-66.6" tilt="-67.19" target="_blank" title="07" url="" skinid="ht_noDisponible"/>
-      <hotspot description="Superficie Parcial: 0,51 ha&#xA;Superficie servidumbre:0&#xA;Superficie total: 0,51 ha" id="08" pan="-6.71" tilt="-72.45" target="_blank" title="08" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,52 ha&#xA;Superficie servidumbre:0,03 ha&#xA;Superficie total: 0,54 ha" id="06" pan="-104.5" tilt="-58.2" target="_blank" title="06" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,5 ha&#xA;Superficie servidumbre:0&#xA;Superficie total: 0,5 ha" id="16" pan="-340.38" tilt="-53.59" target="_blank" title="16" url="" skinid="ht_disponible"/>
-      <hotspot description="Superficie Parcial: 0,50 ha&#xA;Superficie servidumbre:0,008 ha&#xA;Superficie total: 0,51 ha" id="09" pan="-335.93" tilt="-76.7" target="_blank" title="09" url="" skinid="ht_disponible"/>
-      <hotspot description=" 13 km | ⏰ 10 min" id="Point01" pan="-185.17" tilt="-1.04" target="_blank" title="Padre Las Casas" url="" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot description=" 18 km | ⏰ 20 min" id="Point01" pan="-181.56" tilt="0.23" target="_blank" title="Temuco" url="" skinid="ht_tag_georeferencia_mediumLeft"/>
-      <hotspot description="1 km " id="Point01" pan="-202.41" tilt="-11.82" target="_blank" title="Rio Vilcún" url="" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot description="40 km | ⏰ 30 min" id="Point01" pan="-31.44" tilt="-1.41" target="_blank" title="Cunco" url="" skinid="ht_tag_georeferencia_largeLeft"/>
-      <hotspot description="72 km | ⏰ 1h" id="Point01" pan="-32.47" tilt="-0.53" target="_blank" title="Melipeuco" url="" skinid="ht_tag_georeferencia_largeRight"/>
-      <hotspot description="90 km | ⏰ 1h 20 min" id="Point02" pan="-30.69" tilt="-0.11" target="_blank" title="Parque Nacional Conguillio" url="" skinid="ht_tag_georeferencia_smallLeft"/>
-      <hotspot description="115 km | ⏰ 2h" id="Point03" pan="-33.38" tilt="-0.09" target="_blank" title="Icalma" url="" skinid="ht_tag_georeferencia_smallRight"/>
-      <hotspot description="120 km | ⏰ 2h" id="Point01" pan="-40.34" tilt="0.35" target="_blank" title="Paso Fronterizo Icalma" url="" skinid="ht_tag_georeferencia_smallRightYellow"/>
-      <hotspot description="80 km | ⏰ 1h 10 min" id="Point01" pan="-68.75" tilt="-0.51" target="_blank" title="Villarrica" url="" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot description="" id="Point01" pan="-215.99" tilt="-31.82" target="_blank" title="Santa Rosa" url="" skinid="ht_tag_georeferencia_mediumRight_Blue"/>
-      <hotspot description="" id="Point01" distance="176.258" pan="-251.66" tilt="-57.29" target="$fwd" title="StreetView" url="{node11}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="93.4666" pan="-227.78" tilt="-70.14" target="$fwd" title="StreetView" url="{node5}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="61.7355" pan="-164.46" tilt="-75.92" target="$fwd" title="StreetView" url="{node6}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="109.514" pan="-114.84" tilt="-67.2" target="$fwd" title="StreetView" url="{node7}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="168.342" pan="-117.75" tilt="-58.82" target="$fwd" title="StreetView" url="{node8}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="57.0124" pan="-57.78" tilt="-78.86" target="$fwd" title="StreetView" url="{node9}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="151.868" pan="-303.73" tilt="-61.13" target="$fwd" title="StreetView" url="{node12}" skinid="ht_nodo_roundedB"/>
+    <userdata author="" info="" datetime="08-10-2024 15:13" longitude="-72.043330" source="" description="" latitude="-40.371493" customnodeid="" tags="MP -Laguna Los Corrales" nodeid="node20" title="Vista aérea 2" comment="" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderalpha="1" width="180" background="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" height="20" enabled="0" border="1" wordwrap="1"/>
+      <polystyle borderalpha="0" backgroundcolor="0x99ffa5" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="2"/>
+      <hotspot distance="598.835" target="-27.0/-10.3/70.0" id="Point01" description="" tilt="-29.84" skinid="ht_nodo_roundedB" title="Laguna Los Corrales" pan="-220.15" url="{node18}"/>
+      <hotspot target="_blank" id="1" description="Superficie: 0,63 Has&#xa;Servidumbre de tránsito: NO" tilt="-43.51" skinid="ht_disponible" title="1" pan="-218.77" url=""/>
+      <hotspot target="_blank" id="2" description="Superficie: 0,75 Has&#xa;Servidumbre de tránsito: NO" tilt="-46.93" skinid="ht_disponible" title="2" pan="-225.4" url=""/>
+      <hotspot target="_blank" id="3" description="Superficie: 0,95 Has&#xa;Servidumbre de tránsito: NO" tilt="-50.12" skinid="ht_disponible" title="3" pan="-213.63" url=""/>
+      <hotspot target="_blank" id="4" description="Superficie: 0,73 Has&#xa;Servidumbre de tránsito: NO" tilt="-53.9" skinid="ht_disponible" title="4" pan="-222.27" url=""/>
+      <hotspot target="_blank" id="5" description="Superficie: 0,65 Has&#xa;Servidumbre de tránsito: NO" tilt="-56.01" skinid="ht_disponible" title="5" pan="-206.3" url=""/>
+      <hotspot target="_blank" id="6" description="Superficie: 0,59 Has&#xa;Servidumbre de tránsito: NO" tilt="-60.03" skinid="ht_disponible" title="6" pan="-215.01" url=""/>
+      <hotspot target="_blank" id="7" description="Superficie: 0,62 Has&#xa;Servidumbre de tránsito: NO" tilt="-58.81" skinid="ht_disponible" title="7" pan="-185.58" url=""/>
+      <hotspot target="_blank" id="8" description="Superficie: 0,62 Has&#xa;Servidumbre de tránsito: NO" tilt="-67.62" skinid="ht_disponible" title="8" pan="-198.34" url=""/>
+      <hotspot target="_blank" id="9" description="Superficie: 0,66 Has&#xa;Servidumbre de tránsito: NO" tilt="-64.24" skinid="ht_disponible" title="9" pan="-156.63" url=""/>
+      <hotspot target="_blank" id="10" description="Superficie: 0,95 Has&#xa;Servidumbre de tránsito: NO" tilt="-82.07" skinid="ht_disponible" title="10" pan="-173.15" url=""/>
+      <hotspot target="_blank" id="11" description="Superficie: 0,95 Has&#xa;Servidumbre de tránsito: NO" tilt="-78.6" skinid="ht_disponible" title="11" pan="-86.74" url=""/>
+      <hotspot target="_blank" id="12" description="Superficie: 1,23 Has&#xa;Servidumbre de tránsito: NO" tilt="-75.95" skinid="ht_disponible" title="12" pan="-358.95" url=""/>
+      <hotspot target="_blank" id="13" description="Superficie: 1,23 Has&#xa;Servidumbre de tránsito: NO" tilt="-63.27" skinid="ht_disponible" title="13" pan="-13.43" url=""/>
+      <hotspot target="_blank" id="14" description="Superficie: 0,99 Has&#xa;Servidumbre de tránsito: NO" tilt="-46.55" skinid="ht_disponible" title="14" pan="-350.07" url=""/>
+      <hotspot target="_blank" id="15" description="Superficie: 1,22 Has&#xa;Servidumbre de tránsito: NO" tilt="-45.93" skinid="ht_disponible" title="15" pan="-2.52" url=""/>
+      <hotspot target="_blank" id="16" description="Superficie: 1,24 Has&#xa;Servidumbre de tránsito: NO" tilt="-38.98" skinid="ht_disponible" title="16" pan="-2.14" url=""/>
+      <hotspot target="_blank" id="17" description="Superficie: 1,03 Has&#xa;Servidumbre de tránsito: NO" tilt="-40.64" skinid="ht_disponible" title="17" pan="-13.69" url=""/>
+      <hotspot target="_blank" id="18" description="Superficie: 1,01 Has&#xa;Servidumbre de tránsito: NO" tilt="-33.65" skinid="ht_disponible" title="18" pan="-12.04" url=""/>
+      <hotspot target="_blank" id="19" description="Superficie: 1,01 Has&#xa;Servidumbre de tránsito: NO" tilt="-35.52" skinid="ht_disponible" title="19" pan="-20.31" url=""/>
+      <hotspot target="_blank" id="20" description="Superficie: 2,18 Has&#xa;Servidumbre de tránsito: NO" tilt="-26.52" skinid="ht_disponible" title="20" pan="-17.94" url=""/>
+      <hotspot target="" id="Point01" description="1 h 2 min | 54,8 km&#xa;" tilt="-0.03" skinid="ht_tag_georeferencia_smallRight" title="Los Lagos" pan="-107.72" url="images/Los-Lagos.jpg"/>
+      <hotspot target="" id="Point01" description="2 h 25 min | 155 km&#xa;También conocido como Aeropuerto de Valdivia, se encuentra ubicado aproximadamente a 30 kilómetros al sureste de la ciudad de Valdivia, en la Región de Los Ríos, Chile. Este aeropuerto es un punto de conexión importante para la región, ofreciendo principalmente vuelos nacionales." tilt="-0.51" skinid="ht_tag_georeferencia_mediumRight" title="Aeropuerto Pichoy" pan="-104.62" url="images/aeropuerto-pichoy.jpg"/>
+      <hotspot target="" id="Point01" description="12 min | 7,2" tilt="-2.02" skinid="ht_tag_georeferencia_smallx" title="Mirador Lago Pucura" pan="-99.62" url="images/mirador-laguna-pucura.jpg"/>
+      <hotspot target="" id="Point01" description="59 min | 53,0 km" tilt="-0.29" skinid="ht_tag_georeferencia_largeRight" title="Futrono" pan="-96.43" url="images/futrono.jpg"/>
+      <hotspot target="_blank" id="Point01" description="" tilt="-1.91" skinid="ht_tag_georeferencia_smallRightYellow" title="Ruta T-85" pan="-85.48" url=""/>
+      <hotspot target="" id="Point01" description="55 min | 46,6 km&#xa;Lago Ranco es una comuna situada en la provincia de Ranco, en la Región de Los Ríos, Chile. Limita al norte con la comuna de Futrono, al este con Argentina, al sur con Río Bueno y al oeste con La Unión. Es un área conocida por su belleza natural y su entorno lacustre. Puedes disfrutar de este tipo actividades: Parque, playas, miradores, termas, senderismo, cicloturusmo y más." tilt="-2.74" skinid="ht_tag_georeferencia_mediumLeftEspecial" title="Lago Ranco" pan="-80.96" url="images/Lago-Ranco.jpg"/>
+      <hotspot target="" id="Point01" description="2 h 32 min | 149 km&#xa;Valdivia-Corral, abarca el hermoso borde costero y fluvial del estuario del río Valdivia y la Bahía de Corral. Puedes disfrutar de atractivos turísticos como: museos, parques, playas, áreas costeras y santuario naturales. " tilt="-2.06" skinid="ht_tag_georeferencia_smallLeft" title="Valdivia" pan="-76.82" url="images/valdivia.jpg"/>
+      <hotspot target="" id="Point01" description="1 h 34 min | 92,2 km&#xa;" tilt="0.93" skinid="ht_tag_georeferencia_smallLeft" title="Río Bueno" pan="-60.79" url="images/riobueno.jpg"/>
+      <hotspot target="" id="Point01" description="2 h 1 min | 130 km&#xa;Osorno, ubicada en la Región de Los Lagos en Chile, es una ciudad con una rica historia y una variedad de atractivos turísticos. Acá te dejamos algunos de los principales lugares y actividades que puedes disfrutar en Osorno: Plaza de Armas, Museo Histórico y Arqueológico, Parque, Fuente de San Carlos de Ancud, Cerro de la Virgen, Rió Rahue y más" tilt="0.65" skinid="ht_tag_georeferencia_mediumRight" title="Osorno" pan="-48.44" url="images/Osorno.jpg"/>
+      <hotspot target="" id="Point01" description="2 h | 131 km&#xa;El Aeropuerto Cañal Bajo, también conocido como Aeropuerto de Osorno, se encuentra en la región de Los Lagos, en Chile. Es un aeropuerto pequeño que sirve principalmente vuelos nacionales.&#xa;&#xa;" tilt="1.37" skinid="ht_tag_georeferencia_largeRight" title="Aeropuerto Cañal Bajo" pan="-39.13" url="images/Aeródromo-Cañal-Bajo.jpg"/>
+      <hotspot target="" id="Point01" description="2 h 20 min | 148 km&#xa;Las Termas de Puyehue, ubicadas en la Región de Los Lagos, Chile, son un atractivo turístico que combina aguas termales naturales con el entorno majestuoso del Parque Nacional Puyehue. Ofrecen piscinas de aguas termales, spas, y actividades al aire libre como senderismo y avistamiento de fauna. Este destino es ideal para quienes buscan relajación y contacto con la naturaleza, rodeado de paisajes de bosques nativos y montañas." tilt="-1.74" skinid="ht_tag_georeferencia_smallRight" title="Termas de Puyehue" pan="-17.94" url="images/Termas-de-Puyehue.jpg"/>
+      <hotspot target="" id="Point01" description="3 h 9 min | 232 km&#xa;Es una ciudad ubicada en la Región de Los Lagos, en el sur de Chile. Es conocida por su belleza natural, su puerto y su importancia como punto de acceso a la Patagonia. Sus atractivos turísticos serían: Costanera, mercado de Angelmó, Isla Tenglo, Parque, lagos y volcanes. " tilt="1.05" skinid="ht_tag_georeferencia_mediumRight" title="Puerto Montt" pan="-13.24" url="images/puerto-montt.jpg"/>
+      <hotspot target="" id="Point01" description="2 h 36 min | 191 km&#xa;Es una hermosa localidad ubicada en la Región de Los Lagos, en el sur de Chile. Es conocida por su impresionante paisaje, que incluye vistas al Lago Llanquihue y al volcán Osorno. La ciudad tiene una rica herencia cultural, especialmente influenciada por la colonización alemana, lo que se refleja en su arquitectura y en la gastronomía local. Puedes disfrutar de sus playas y sus actividades acuáticas." tilt="1.02" skinid="ht_tag_georeferencia_largeRight" title="Frutillar " pan="-7.03" url="images/frutillar.jpg"/>
+      <hotspot target="" id="Point01" description="2 h 9 min | 128 km&#xa;Ubicado en la Región de Los Ríos en Chile, es un hermoso destino turístico que ofrece una variedad de atractivos naturales y actividades. Aquí te menciono algunos de los principales atractivos turísticos de la zona: Parques, termas, actividades al aire libre, miradores. Cascadas, fauna y flores." tilt="-3.82" skinid="ht_tag_georeferencia_mediumLeft" title="Lago Puyehue" pan="-302.62" url="images/Paso-Cardenal-Samoré.jpg"/>
+      <hotspot target="" id="Point01" description="3 h 3 min | 192 km&#xa;El Paso Internacional Cardenal Samore es un importante cruce fronterizo entre Chile y Argentina, ubicado en la región de Los Lagos. Este paso conecta la ciudad chilena de Puyehue con la ciudad argentina de Neuquén. Es conocido por su hermoso paisaje montañoso y es un punto popular para turistas que desean explorar ambos países." tilt="-1.05" skinid="ht_tag_georeferencia_largeRight" title="Paso Cardenal Samoré" pan="-294.98" url="images/Paso-Cardenal-Samoré.jpg"/>
+      <hotspot target="" id="Point01" description="59 min | 34 km&#xa;El Lago Maihué, ubicado en la Región de Los Ríos en Chile, es un destino turístico que ofrece una variedad de atractivos naturales y actividades recreativas. Algunos de los principales atractivos turísticos de la zona incluyen: naturaleza y paisaje, actividades acuáticas, actividades acuáticas, camping y áreas recreativas, observación de fauna, ,&#xa;senderismo." tilt="-3.97" skinid="ht_tag_georeferencia_largeRight" title="Lago Maihué" pan="-162.94" url="images/Lago-Maihue.jpg"/>
+      <hotspot target="" id="Point01" description="3 min | 1,7 km&#xa;Ubicado en la región de Los Lagos, es un destino turístico fascinante que ofrece impresionantes vistas panorámicas de la cordillera y los lagos circundantes. Los visitantes pueden disfrutar de actividades como el senderismo y la observación de flora y fauna nativa. Además, la zona es ideal para los amantes de la fotografía, gracias a sus paisajes naturales. La experiencia se complementa con la rica cultura local y la posibilidad de explorar tradiciones y gastronomía de la región." tilt="-9.05" skinid="ht_tag_georeferencia_smallRight" title="Volcán Mirador" pan="-100.03" url="images/Volcán-Mirador.jpg"/>
+      <hotspot target="_blank" id="Point01" description="" tilt="-28.73" skinid="ht_tag_georeferencia_smallRightYellow" title="Ruta T-709" pan="-41.15" url=""/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
+    <transition zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="20" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" softedge="0"/>
+    <autorotate speed="0.020" delay="40.00" useanimation="0" nodedelay="0.00" returntohorizon="0.000" startloaded="0" nodefilter="" enabled="1" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" rubberband="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8"/>
   </panorama>
-  <panorama id="node3">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
+  <panorama id="node18">
+    <input levelbias="0.400" width="2048" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" leveltilesize="510" levelingroll="0" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="1.28" projection="4" tilt="-90" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270" pan="360"/>
     </view>
-    <userdata description="" longitude="-72.469190" datetime="01/01/1970 0:00" copyright="" info="" author="" comment="" nodeid="node3" latitude="-38.840524" title="default" tags="Humedal Santa Rosa de huichahue" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
+    <userdata author="" info="" datetime="01-01-1970 0:00" longitude="-72.037092" source="" description="" latitude="-40.368960" customnodeid="" tags="MP -Laguna Los Corrales" nodeid="node18" title="Laguna Los Corrales" comment="" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderalpha="1" width="180" background="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" height="20" enabled="0" border="1" wordwrap="1"/>
+      <polystyle borderalpha="0" backgroundcolor="0x99ffa5" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="2"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node11">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.469215" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node11" latitude="-38.838941" title="StreetView" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="" id="Point01" distance="12.5451" pan="-202.99" tilt="-19.01" target="$fwd" title="StreetView" url="{node4}" skinid="ht_nodo_roundedB"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node4">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="184.667">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.469297" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node4" latitude="-38.839034" title="StreetView 1" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="" id="Point01" distance="12.5451" pan="-191.08" tilt="-17.56" target="$fwd" title="StreetView" url="{node11}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="86.1991" pan="-2.98" tilt="-9.04" target="$fwd" title="StreetView" url="{node5}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="128.288" pan="-271.78" tilt="-4.4" target="$fwd" title="StreetView" url="{node12}" skinid="ht_nodo_roundedB"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node5">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="179.805">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.469639" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node5" latitude="-38.839762" title="StreetView 2" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="" id="Point01" distance="86.1991" pan="-183.02" tilt="-7.37" target="$fwd" title="StreetView" url="{node4}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="78.4275" pan="-1.77" tilt="-5.97" target="$fwd" title="StreetView" url="{node6}" skinid="ht_nodo_roundedB"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node6">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="-176.478">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.469893" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node6" latitude="-38.840439" title="StreetView 3" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="" id="Point01" distance="78.4275" pan="-178.02" tilt="-3.05" target="$fwd" title="StreetView" url="{node5}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="96.8933" pan="-350.35" tilt="-5.5" target="$fwd" title="StreetView" url="{node7}" skinid="ht_nodo_roundedB"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node7">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="101.455">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.469956" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node7" latitude="-38.841309" title="StreetView 4" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="" id="Point01" distance="61.8457" pan="-165.2" tilt="-8.38" target="$fwd" title="StreetView" url="{node8}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="96.0381" pan="-356.79" tilt="-7.51" target="$fwd" title="StreetView" url="{node9}" skinid="ht_nodo_roundedB"/>
-      <hotspot description="" id="Point01" distance="96.8933" pan="-285.26" tilt="-5.88" target="$fwd" title="StreetView" url="{node6}" skinid="ht_nodo_roundedB"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node8">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="-83.8428">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.470573" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node8" latitude="-38.841589" title="StreetView 5" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="" id="Point01" distance="61.8457" pan="-177.65" tilt="-5.67" target="$fwd" title="StreetView" url="{node7}" skinid="ht_nodo_roundedB"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node9">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="263.026">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.468923" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node9" latitude="-38.840995" title="StreetView 6" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="" id="Point01" distance="96.0381" pan="-14.38" tilt="-5.01" target="$fwd" title="StreetView" url="{node7}" skinid="ht_nodo_roundedB"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node12">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="-171.849">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.467969" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node12" latitude="-38.839545" title="StreetView 7" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot description="" id="Point01" distance="128.288" pan="-65.08" tilt="-4.85" target="$fwd" title="StreetView" url="{node4}" skinid="ht_nodo_roundedB"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node10">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.468839" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node10" latitude="-38.840340" title="Lote 12" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
-  </panorama>
-  <panorama id="node13">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
-    </view>
-    <userdata description="" longitude="-72.467223" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node13" latitude="-38.840189" title="Lote 16" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
+    <transition zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="20" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" softedge="0"/>
+    <autorotate speed="0.020" delay="40.00" useanimation="0" nodedelay="0.00" returntohorizon="0.000" startloaded="0" nodefilter="" enabled="1" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" rubberband="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8"/>
   </panorama>
   <panorama id="node14">
-    <input leveltilesize="510" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2048" height="2048">
-      <level predecode="0" preload="0" width="2048" height="2048"/>
-      <level predecode="0" preload="0" width="1024" height="1024"/>
-      <level predecode="0" preload="0" width="512" height="512"/>
-      <level predecode="1" preload="1" width="256" height="256"/>
+    <input levelbias="0.400" width="2048" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" leveltilesize="510" levelingroll="0" levelingpitch="0">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1"/>
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270" pan="360"/>
     </view>
-    <userdata description="" longitude="-72.467226" datetime="01-01-1970 0:00" copyright="" info="" author="" comment="" nodeid="node14" latitude="-38.840183" title="default" tags="StreetView" source="" customnodeid=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label textalpha="1" border="1" borderradius="1" wordwrap="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
+    <userdata author="" info="" datetime="08-10-2024 15:15" longitude="-72.044111" source="" description="" latitude="-40.374705" customnodeid="" tags="MP -Laguna Los Corrales" nodeid="node14" title="Aérea Retocada" comment="" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" borderalpha="1" width="180" background="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" height="20" enabled="0" border="1" wordwrap="1"/>
+      <polystyle borderalpha="0" backgroundcolor="0x99ffa5" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="2"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomfov="20" zoomoutpause="1" enabled="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" blendtime="1"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control hideabout="0" invertwheel="0" simulatemass="1" contextfullscreen="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" rubberband="0" lockedmouse="0" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1"/>
+    <transition zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="20" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" softedge="0"/>
+    <autorotate speed="0.020" delay="40.00" useanimation="0" nodedelay="0.00" returntohorizon="0.000" startloaded="0" nodefilter="" enabled="1" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" rubberband="0" contextfullscreen="1" hideabout="0" lockedwheel="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8"/>
   </panorama>
   <masternode>
-    <userdata description="" longitude="" datetime="" copyright="" info="" author="" comment="" nodeid="master" latitude="" title="" tags="" source="" customnodeid=""/>
+    <userdata author="" info="" datetime="" longitude="" source="" description="" latitude="" customnodeid="" tags="" nodeid="master" title="Laguna Los Corrales Etapa 5" comment="" copyright=""/>
   </masternode>
 </tour>

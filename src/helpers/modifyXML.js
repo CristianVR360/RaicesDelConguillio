@@ -23,7 +23,7 @@ const updateHotspotAttributes = async (hotspotId, description, status, newInfo) 
     const result = await getData();
 
     // Buscar el panorama con el id "node2"
-    const panorama = result.tour.panorama.find(p => p.$.id === 'node1');
+    const panorama = result.tour.panorama.find(p => p.$.id === 'node3');
 
     if (panorama) {
       if (panorama.hotspots && panorama.hotspots.length > 0) {
@@ -44,12 +44,12 @@ const updateHotspotAttributes = async (hotspotId, description, status, newInfo) 
           throw new Error(`No hotspot found with the id: ${hotspotId}`);
         }
       } else {
-        console.warn('Panorama with id "node1" has no hotspots');
-        throw new Error(`Panorama with id "node1" has no hotspots`);
+        console.warn('Panorama with id "node3" has no hotspots');
+        throw new Error(`Panorama with id "node3" has no hotspots`);
       }
     } else {
-      console.warn('Panorama with id "node1" not found');
-      throw new Error(`Panorama with id "node1" not found`);
+      console.warn('Panorama with id "node3" not found');
+      throw new Error(`Panorama with id "node3" not found`);
     }
   } catch (error) {
     console.error(error);
@@ -63,7 +63,7 @@ const getAllHotspots = async () => {
     const result = await getData();
     
     // Buscar el panorama con el id "node2"
-    const panorama = result.tour.panorama.find(p => p.$.id === 'node1');
+    const panorama = result.tour.panorama.find(p => p.$.id === 'node3');
     
     if (panorama) {
       if (panorama.hotspots && panorama.hotspots.length > 0) {
@@ -109,11 +109,11 @@ const getAllHotspots = async () => {
         
         return hotspotArray;
       } else {
-        console.warn('Panorama with id "node1" has no hotspots');
+        console.warn('Panorama with id "node3" has no hotspots');
         return [];
       }
     } else {
-      console.warn('Panorama with id "node1" not found');
+      console.warn('Panorama with id "node3" not found');
       return [];
     }
   } catch (error) {
@@ -126,7 +126,7 @@ const getAllHotspots = async () => {
 const exportDataToJSON = async (filePath) => {
   try {
     const result = await getData();
-    const panorama = result.tour.panorama.find(p => p.$.id === 'node1');
+    const panorama = result.tour.panorama.find(p => p.$.id === 'node3');
 
     if (panorama && panorama.hotspots && panorama.hotspots.length > 0) {
       const hotspots = panorama.hotspots[0].hotspot;
@@ -148,7 +148,7 @@ const exportDataToJSON = async (filePath) => {
       await fs.promises.writeFile(filePath, jsonData);
       console.log('Datos exportados correctamente');
     } else {
-      console.warn('Panorama with id "node1" has no hotspots');
+      console.warn('Panorama with id "node3" has no hotspots');
     }
   } catch (error) {
     console.error(error);
@@ -161,7 +161,7 @@ const importDataFromJSON = async (filePath) => {
     const hotspots = JSON.parse(jsonData);
 
     const result = await getData();
-    const panorama = result.tour.panorama.find(p => p.$.id === 'node1');
+    const panorama = result.tour.panorama.find(p => p.$.id === 'node3');
 
     if (panorama && panorama.hotspots && panorama.hotspots.length > 0) {
       for (const hotspot of hotspots) {git
@@ -169,7 +169,7 @@ const importDataFromJSON = async (filePath) => {
       }
       console.log('Datos importados correctamente');
     } else {
-      console.warn('Panorama with id "node1" has no hotspots');
+      console.warn('Panorama with id "node3" has no hotspots');
     }
   } catch (error) {
     console.error(error);

@@ -1,226 +1,232 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<tour start="node6" appversion="6.1.2" apprev="17873">
+<tour appversion="6.1.2" apprev="17873" start="node6">
   <panorama id="node6">
-    <input levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" overlap="1" levelingpitch="0" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="2048" height="2048" preload="0" predecode="0"/>
-      <level width="1024" height="1024" preload="0" predecode="0"/>
-      <level width="512" height="512" preload="0" predecode="0"/>
-      <level width="256" height="256" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" levelingroll="0" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="-7.51" fov="110.93" tilt="-90"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovstereographic="270" pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90"/>
+      <start tilt="-90" projection="4" pan="-7.51" fov="110.93"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120"/>
     </view>
-    <userdata datetime="06-02-2025 12:39" tags="MP" latitude="-38.574656" longitude="-71.787084" author="" source="" description="" nodeid="node6" title="Vista Principal" copyright="" info="" comment="" customnodeid=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" height="20" background="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" textcolor="0x000000" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="-344.4" target="" description="13,15 km" url="images/Volcán-Pichi-Llaima.jpg" id="Point01" title="Volcán Pichi Llaima" tilt="7.16" skinid="ht_tag_georeferencia_largeLeft"/>
-      <hotspot pan="-236.3" target="" description="56 min | 53,3 km" url="images/Reserva-Nacional-Malalcahuello.jpg" id="Point01" title="Reserva Nacional Malalcahuello" tilt="3.65" skinid="ht_tag_georeferencia_largeLeft"/>
-      <hotspot pan="-333.55" target="_blank" description="6 min | 4,3 km" url="" id="Point01" title="Parque Nacional Conguillio" tilt="0.15" skinid="ht_tag_georeferencia_mediumLeft"/>
-      <hotspot pan="-160.86" target="" description="22 min | 21,8 km" url="images/Curacautín.jpg" id="Point01" title="Curacautín" tilt="0.44" skinid="ht_tag_georeferencia_smallRight"/>
-      <hotspot pan="-81.93" target="" description="1 h 34 min | 96,5 km" url="images/Temuco.jpg" id="Point01" title="Temuco" tilt="2.68" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot pan="-71.4" target="" description="1 h 37 min | 121 km" url="images/aeropuerto.jpg" id="Point01" title="Aeropuerto Araucanía" tilt="3.33" skinid="ht_tag_georeferencia_smallLeft"/>
-      <hotspot pan="-189.34" target="" description="1 h 25 min | 115 km" url="images/Reserva-Nacional-Malleco.jpg" id="Point01" title="Reserva Nacional Malleco" tilt="2.49" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot pan="-22.78" target="" description="2 h 28 min | 117 km" url="images/Villarrica.jpg" id="Point01" title="Villarrica" tilt="1.14" skinid="ht_tag_georeferencia_smallRight"/>
-      <hotspot pan="-16.23" target="" description="4 h 9 min | 275 km" url="images/Lago-Villarrica.jpg" id="Point01" title="Lago Villarrica" tilt="1.45" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot pan="-116.09" target="" description="1 h 3 min | 66,1 km" url="images/lautaro.jpg" id="Point01" title="Lautaro" tilt="3.2" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot pan="-133.86" target="_blank" description="Ruta 5-Sur" url="" id="Point02" title="Panamericana Sur" tilt="2.93" skinid="ht_tag_georeferencia_smallRightYellow"/>
-      <hotspot pan="-152.9" target="" description="1 h 17 min | 79,0 km" url="images/Victoria.jpg" id="Point01" title="Victoria" tilt="0.46" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot pan="-302.34" target="_blank" description="" url="" id="Point02" title="Acceso" tilt="-45.7" skinid="ht_tag_geo"/>
-      <hotspot pan="-334.17" target="_blank" description="" url="" id="37" title="37" tilt="-35.13" skinid="ht_disponible"/>
-      <hotspot pan="-341.28" target="_blank" description="" url="" id="38" title="38" tilt="-40.12" skinid="ht_disponible"/>
-      <hotspot pan="-348.31" target="_blank" description="" url="" id="39" title="39" tilt="-36.05" skinid="ht_disponible"/>
-      <hotspot pan="-356.57" target="_blank" description="" url="" id="40" title="40" tilt="-38.75" skinid="ht_disponible"/>
-      <hotspot pan="-332.52" target="_blank" description="" url="" id="36" title="36" tilt="-45.13" skinid="ht_disponible"/>
-      <hotspot pan="-321.77" target="_blank" description="" url="" id="35" title="35" tilt="-47.83" skinid="ht_disponible"/>
-      <hotspot pan="-309.99" target="_blank" description="" url="" id="34" title="34" tilt="-51.2" skinid="ht_disponible"/>
-      <hotspot pan="-320.48" target="_blank" description="" url="" id="33" title="33" tilt="-57.18" skinid="ht_disponible"/>
-      <hotspot pan="-334.39" target="_blank" description="" url="" id="32" title="32" tilt="-64.59" skinid="ht_disponible"/>
-      <hotspot pan="-341.2" target="_blank" description="" url="" id="31" title="31" tilt="-53.11" skinid="ht_disponible"/>
-      <hotspot pan="-354.98" target="_blank" description="" url="" id="30" title="30" tilt="-49.92" skinid="ht_disponible"/>
-      <hotspot pan="-7.08" target="_blank" description="" url="" id="29" title="29" tilt="-44.4" skinid="ht_disponible"/>
-      <hotspot pan="-23.75" target="_blank" description="" url="" id="28" title="28" tilt="-54.12" skinid="ht_disponible"/>
-      <hotspot pan="-9.99" target="_blank" description="" url="" id="27" title="27" tilt="-59.78" skinid="ht_disponible"/>
-      <hotspot pan="-356.61" target="_blank" description="" url="" id="26" title="26" tilt="-69.6" skinid="ht_disponible"/>
-      <hotspot pan="-23.76" target="_blank" description="" url="" id="25" title="25" tilt="-73.21" skinid="ht_disponible"/>
-      <hotspot pan="-47.12" target="_blank" description="" url="" id="24" title="24" tilt="-59.67" skinid="ht_disponible"/>
-      <hotspot pan="-70.73" target="_blank" description="" url="" id="23" title="23" tilt="-59.21" skinid="ht_disponible"/>
-      <hotspot pan="-63.76" target="_blank" description="" url="" id="22" title="22" tilt="-45.44" skinid="ht_disponible"/>
-      <hotspot pan="-76.78" target="_blank" description="" url="" id="21" title="21" tilt="-43.28" skinid="ht_disponible"/>
-      <hotspot pan="-296.77" target="_blank" description="" url="" id="12" title="12" tilt="-52.03" skinid="ht_disponible"/>
-      <hotspot pan="-284.31" target="_blank" description="" url="" id="11" title="11" tilt="-51.89" skinid="ht_disponible"/>
-      <hotspot pan="-290.25" target="_blank" description="" url="" id="13" title="13" tilt="-60.93" skinid="ht_disponible"/>
-      <hotspot pan="-284.63" target="_blank" description="" url="" id="14" title="14" tilt="-68.82" skinid="ht_disponible"/>
-      <hotspot pan="-232.37" target="_blank" description="" url="" id="15" title="15" tilt="-65.64" skinid="ht_disponible"/>
-      <hotspot pan="-218.86" target="_blank" description="" url="" id="16" title="16" tilt="-82.8" skinid="ht_disponible"/>
-      <hotspot pan="-188.18" target="_blank" description="" url="" id="17" title="17" tilt="-62.93" skinid="ht_disponible"/>
-      <hotspot pan="-135.39" target="_blank" description="" url="" id="18" title="18" tilt="-72.22" skinid="ht_disponible"/>
-      <hotspot pan="-156.75" target="_blank" description="" url="" id="19" title="19" tilt="-56.35" skinid="ht_disponible"/>
-      <hotspot pan="-125.71" target="_blank" description="" url="" id="20" title="20" tilt="-57.42" skinid="ht_disponible"/>
-      <hotspot pan="-193.42" target="_blank" description="" url="" id="1" title="1" tilt="-38" skinid="ht_disponible"/>
-      <hotspot pan="-198.44" target="_blank" description="" url="" id="2" title="2" tilt="-46.09" skinid="ht_disponible"/>
-      <hotspot pan="-216.8" target="_blank" description="" url="" id="3" title="3" tilt="-37.61" skinid="ht_disponible"/>
-      <hotspot pan="-219.88" target="_blank" description="" url="" id="4" title="4" tilt="-46.39" skinid="ht_disponible"/>
-      <hotspot pan="-231.19" target="_blank" description="" url="" id="5" title="5" tilt="-40.57" skinid="ht_disponible"/>
-      <hotspot pan="-240.25" target="_blank" description="" url="" id="6" title="6" tilt="-44.13" skinid="ht_disponible"/>
-      <hotspot pan="-249.15" target="_blank" description="" url="" id="7" title="7" tilt="-40.68" skinid="ht_disponible"/>
-      <hotspot pan="-238.01" target="_blank" description="" url="" id="8" title="8" tilt="-53.28" skinid="ht_disponible"/>
-      <hotspot pan="-263.77" target="_blank" description="" url="" id="9" title="9" tilt="-48.18" skinid="ht_disponible"/>
-      <hotspot pan="-262.49" target="_blank" description="" url="" id="10" title="10" tilt="-60.63" skinid="ht_disponible"/>
-      <hotspot pan="-97.73" target="_blank" description="" url="" id="Point03" title="Curso de Agua" tilt="-49.27" skinid="ht_tag_georeferencia_mediumRight_Blue"/>
-      <hotspot pan="-141.86" target="_blank" description="" url="" id="Point03" title="Río Captren" tilt="-38.4" skinid="ht_tag_georeferencia_mediumRight_Blue"/>
-      <hotspot pan="-226.76" target="" description="47 min | 29,2 km" url="images/Sierra-Nevada.jpg" id="Point01" title="Sierra Nevada" tilt="5.48" skinid="ht_tag_georeferencia_smallLeft"/>
-      <hotspot pan="-245.46" target="" description="2 h 2 min | 101 km&#xA;Aquí nace el río Biobío, uno de los más importantes de Chile. La laguna es un lugar de gran belleza natural, rodeado de bosques y montañas, ideal para el ecoturismo." url="images/laguna-galeltue.jpg" id="Point01" title="Laguna Galletué" tilt="2.9" skinid="ht_tag_georeferencia_largeRight"/>
-      <hotspot pan="-257.56" target="" description="2 h 11 min | 82,9 km&#xA;Punto turístico conocido por su lago y termas, es un destino popular para quienes buscan relajación y actividades al aire libre en un entorno natural único." url="images/icalma.jpg" id="Point01" title="Icalma" tilt="2.16" skinid="ht_tag_georeferencia_mediumRight"/>
-      <hotspot pan="-268.04" target="" description="2 h 16 min | 86,7 km&#xA;Paso fronterizo entre Chile y Argentina, es una ruta escénica que conecta ambas naciones, ideal para viajeros que buscan explorar los paisajes andinos y realizar intercambios culturales y comerciales." url="images/icalma.jpg" id="Point01" title="Paso Internacional Icalma" tilt="3.67" skinid="ht_tag_georeferencia_smallRight"/>
-      <hotspot pan="-301.22" target="" description="36 min | 17,9 km" url="images/conguillio.jpg" id="Point01" title="Lago Conguillio" tilt="4.51" skinid="ht_tag_georeferencia_mediumLeft"/>
-      <hotspot pan="-324.56" target="" description="21 min | 11,3 km&#xA;Lago poco conocido pero de gran belleza, ubicado en una zona prístina. Es ideal para la pesca, el kayak y la observación de aves, ofreciendo tranquilidad y conexión con la naturaleza." url="images/captren.jpg" id="Point01" title="Lago Captren" tilt="0.19" skinid="ht_tag_georeferencia_smallLeft"/>
-      <hotspot pan="-12.72" target="" description="Nace en esta zona, extendiéndose por más de 200 km a través de la región lacustre del sur de Chile, ofreciendo paisajes impresionantes y conexión entre lagos y localidades turísticas.&#xA;" url="images/ruta-interlagos.jpg" id="Point01" title="Ruta Interlagos" tilt="-19.51" skinid="ht_tag_georeferencia_smallRight"/>
-      <hotspot pan="-345.34" target="" description="43 min | 23,2  km" url="images/Sierra-Nevada.jpg" id="Point01" title="Centro de Ski" tilt="1.82" skinid="ht_tag_georeferencia_smallRight"/>
-      <hotspot pan="-356.29" target="" description="4 h 9 min | 275 km" url="images/Paso-Mamuil-Malal.jpg" id="Point01" title="Paso Mamuil Malal" tilt="3.5" skinid="ht_tag_georeferencia_mediumLeft"/>
-      <hotspot pan="-4.43" target="" description="1 h 23 min | 46,5 km&#xA;Municipio en crecimiento con todos los servicios básicos, como supermercados, farmacias, Carabineros, servicios de emergencia y colegios, ideal para residentes y visitantes." url="images/melipeuco.jpg" id="Point01" title="Melipeuco" tilt="3.03" skinid="ht_tag_georeferencia_largeLeft"/>
-      <hotspot pan="-10.98" target="" description="4 h 9 min | 275 km" url="images/Lago-Collico.jpg" id="Point01" title="Lago Collico" tilt="1.81" skinid="ht_tag_georeferencia_largeRight"/>
-      <hotspot pan="-204.44" target="_blank" description="" url="" id="Point02" title="Estero Puentes" tilt="-27.01" skinid="ht_tag_georeferencia_mediumRight_Blue"/>
-      <hotspot pan="-182.15" target="_blank" description="Ruta R-925-S" url="" id="Point02" title="Camino Curacautín a Conguillio" tilt="-12.07" skinid="ht_tag_georeferencia_smallRightYellow"/>
-      <hotspot pan="-5.05" target="_blank" description="" url="" id="Point01" title="Mirador" tilt="-25.08" skinid="ht_tag_georeferencia_smallLeft"/>
-      <hotspot pan="-337.31" target="_blank" description="" url="" id="Point01" title="Ruta a Conguillio" tilt="-20.1" skinid="ht_tag_georeferencia_smallRightYellow"/>
+    <userdata info="" datetime="06-02-2025 12:39" customnodeid="" description="" author="" nodeid="node6" copyright="" source="" comment="" latitude="-38.574656" tags="MP" longitude="-71.787084" title="Vista Principal"/>
+    <hotspots height="20" width="0" wordwrap="1">
+      <label height="20" bordercolor="0x000000" textalpha="1" borderalpha="1" background="1" border="0" width="0" backgroundcolor="0xffffff" textcolor="0x363636" wordwrap="1" enabled="1" backgroundalpha="0.588235" borderradius="10"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="0" mode="2" handcursor="1" backgroundcolor="0x4dc618" backgroundalpha="0.25098"/>
+      <hotspot tilt="7.16" pan="-344.4" url="images/Volcán-Pichi-Llaima.jpg" description="13,15 km" skinid="ht_tag_georeferencia_largeLeft" target="" id="Point01" title="Volcán Pichi Llaima"/>
+      <hotspot tilt="3.65" pan="-236.3" url="images/Reserva-Nacional-Malalcahuello.jpg" description="56 min | 53,3 km" skinid="ht_tag_georeferencia_largeLeft" target="" id="Point01" title="Reserva Nacional Malalcahuello"/>
+      <hotspot tilt="0.15" pan="-333.55" url="" description="6 min | 4,3 km" skinid="ht_tag_georeferencia_mediumLeft" target="_blank" id="Point01" title="Parque Nacional Conguillio"/>
+      <hotspot tilt="0.44" pan="-160.86" url="images/Curacautín.jpg" description="22 min | 21,8 km" skinid="ht_tag_georeferencia_smallRight" target="" id="Point01" title="Curacautín"/>
+      <hotspot tilt="2.68" pan="-81.93" url="images/Temuco.jpg" description="1 h 34 min | 96,5 km" skinid="ht_tag_georeferencia_mediumRight" target="" id="Point01" title="Temuco"/>
+      <hotspot tilt="3.33" pan="-71.4" url="images/aeropuerto.jpg" description="1 h 37 min | 121 km" skinid="ht_tag_georeferencia_smallLeft" target="" id="Point01" title="Aeropuerto Araucanía"/>
+      <hotspot tilt="2.49" pan="-189.34" url="images/Reserva-Nacional-Malleco.jpg" description="1 h 25 min | 115 km" skinid="ht_tag_georeferencia_mediumRight" target="" id="Point01" title="Reserva Nacional Malleco"/>
+      <hotspot tilt="1.14" pan="-22.78" url="images/Villarrica.jpg" description="2 h 28 min | 117 km" skinid="ht_tag_georeferencia_smallRight" target="" id="Point01" title="Villarrica"/>
+      <hotspot tilt="1.45" pan="-16.23" url="images/Lago-Villarrica.jpg" description="4 h 9 min | 275 km" skinid="ht_tag_georeferencia_mediumRight" target="" id="Point01" title="Lago Villarrica"/>
+      <hotspot tilt="3.2" pan="-116.09" url="images/lautaro.jpg" description="1 h 3 min | 66,1 km" skinid="ht_tag_georeferencia_mediumRight" target="" id="Point01" title="Lautaro"/>
+      <hotspot tilt="2.93" pan="-133.86" url="" description="Ruta 5-Sur" skinid="ht_tag_georeferencia_smallRightYellow" target="_blank" id="Point02" title="Panamericana Sur"/>
+      <hotspot tilt="0.46" pan="-152.9" url="images/Victoria.jpg" description="1 h 17 min | 79,0 km" skinid="ht_tag_georeferencia_mediumRight" target="" id="Point01" title="Victoria"/>
+      <hotspot tilt="-45.7" pan="-302.34" url="" description="" skinid="ht_tag_geo" target="_blank" id="Point02" title="Acceso"/>
+      <hotspot tilt="-35.13" pan="-334.17" url="" description="" skinid="ht_disponible" target="_blank" id="37" title="37"/>
+      <hotspot tilt="-40.12" pan="-341.28" url="" description="" skinid="ht_disponible" target="_blank" id="38" title="38"/>
+      <hotspot tilt="-36.05" pan="-348.31" url="" description="" skinid="ht_disponible" target="_blank" id="39" title="39"/>
+      <hotspot tilt="-38.75" pan="-356.57" url="" description="" skinid="ht_disponible" target="_blank" id="40" title="40"/>
+      <hotspot tilt="-45.13" pan="-332.52" url="" description="" skinid="ht_disponible" target="_blank" id="36" title="36"/>
+      <hotspot tilt="-47.83" pan="-321.77" url="" description="" skinid="ht_disponible" target="_blank" id="35" title="35"/>
+      <hotspot tilt="-51.2" pan="-309.99" url="" description="" skinid="ht_disponible" target="_blank" id="34" title="34"/>
+      <hotspot tilt="-57.18" pan="-320.48" url="" description="" skinid="ht_disponible" target="_blank" id="33" title="33"/>
+      <hotspot tilt="-64.59" pan="-334.39" url="" description="" skinid="ht_disponible" target="_blank" id="32" title="32"/>
+      <hotspot tilt="-53.11" pan="-341.2" url="" description="" skinid="ht_disponible" target="_blank" id="31" title="31"/>
+      <hotspot tilt="-49.92" pan="-354.98" url="" description="" skinid="ht_disponible" target="_blank" id="30" title="30"/>
+      <hotspot tilt="-44.4" pan="-7.08" url="" description="" skinid="ht_disponible" target="_blank" id="29" title="29"/>
+      <hotspot tilt="-54.12" pan="-23.75" url="" description="" skinid="ht_disponible" target="_blank" id="28" title="28"/>
+      <hotspot tilt="-59.78" pan="-9.99" url="" description="" skinid="ht_disponible" target="_blank" id="27" title="27"/>
+      <hotspot tilt="-69.6" pan="-356.61" url="" description="" skinid="ht_disponible" target="_blank" id="26" title="26"/>
+      <hotspot tilt="-73.21" pan="-23.76" url="" description="" skinid="ht_disponible" target="_blank" id="25" title="25"/>
+      <hotspot tilt="-59.67" pan="-47.12" url="" description="" skinid="ht_disponible" target="_blank" id="24" title="24"/>
+      <hotspot tilt="-59.21" pan="-70.73" url="" description="" skinid="ht_disponible" target="_blank" id="23" title="23"/>
+      <hotspot tilt="-45.44" pan="-63.76" url="" description="" skinid="ht_disponible" target="_blank" id="22" title="22"/>
+      <hotspot tilt="-43.28" pan="-76.78" url="" description="" skinid="ht_disponible" target="_blank" id="21" title="21"/>
+      <hotspot tilt="-52.03" pan="-296.77" url="" description="" skinid="ht_disponible" target="_blank" id="12" title="12"/>
+      <hotspot tilt="-51.89" pan="-284.31" url="" description="" skinid="ht_disponible" target="_blank" id="11" title="11"/>
+      <hotspot tilt="-60.93" pan="-290.25" url="" description="" skinid="ht_disponible" target="_blank" id="13" title="13"/>
+      <hotspot tilt="-68.82" pan="-284.63" url="" description="" skinid="ht_disponible" target="_blank" id="14" title="14"/>
+      <hotspot tilt="-65.64" pan="-232.37" url="" description="" skinid="ht_disponible" target="_blank" id="15" title="15"/>
+      <hotspot tilt="-82.8" pan="-218.86" url="" description="" skinid="ht_disponible" target="_blank" id="16" title="16"/>
+      <hotspot tilt="-62.93" pan="-188.18" url="" description="" skinid="ht_disponible" target="_blank" id="17" title="17"/>
+      <hotspot tilt="-72.22" pan="-135.39" url="" description="" skinid="ht_disponible" target="_blank" id="18" title="18"/>
+      <hotspot tilt="-56.35" pan="-156.75" url="" description="" skinid="ht_disponible" target="_blank" id="19" title="19"/>
+      <hotspot tilt="-57.42" pan="-125.71" url="" description="" skinid="ht_disponible" target="_blank" id="20" title="20"/>
+      <hotspot tilt="-38" pan="-193.42" url="" description="" skinid="ht_disponible" target="_blank" id="1" title="1"/>
+      <hotspot tilt="-46.09" pan="-198.44" url="" description="" skinid="ht_disponible" target="_blank" id="2" title="2"/>
+      <hotspot tilt="-37.61" pan="-216.8" url="" description="" skinid="ht_disponible" target="_blank" id="3" title="3"/>
+      <hotspot tilt="-46.39" pan="-219.88" url="" description="" skinid="ht_disponible" target="_blank" id="4" title="4"/>
+      <hotspot tilt="-40.57" pan="-231.19" url="" description="" skinid="ht_disponible" target="_blank" id="5" title="5"/>
+      <hotspot tilt="-44.13" pan="-240.25" url="" description="" skinid="ht_disponible" target="_blank" id="6" title="6"/>
+      <hotspot tilt="-40.68" pan="-249.15" url="" description="" skinid="ht_disponible" target="_blank" id="7" title="7"/>
+      <hotspot tilt="-53.28" pan="-238.01" url="" description="" skinid="ht_disponible" target="_blank" id="8" title="8"/>
+      <hotspot tilt="-48.18" pan="-263.77" url="" description="" skinid="ht_disponible" target="_blank" id="9" title="9"/>
+      <hotspot tilt="-60.63" pan="-262.49" url="" description="" skinid="ht_disponible" target="_blank" id="10" title="10"/>
+      <hotspot tilt="-49.27" pan="-97.73" url="" description="" skinid="ht_tag_georeferencia_mediumRight_Blue" target="_blank" id="Point03" title="Curso de Agua"/>
+      <hotspot tilt="-38.4" pan="-141.86" url="" description="" skinid="ht_tag_georeferencia_mediumRight_Blue" target="_blank" id="Point03" title="Río Captren"/>
+      <hotspot tilt="5.48" pan="-226.76" url="images/Sierra-Nevada.jpg" description="47 min | 29,2 km" skinid="ht_tag_georeferencia_smallLeft" target="" id="Point01" title="Sierra Nevada"/>
+      <hotspot tilt="2.9" pan="-245.46" url="images/laguna-galeltue.jpg" description="2 h 2 min | 101 km&#xA;Aquí nace el río Biobío, uno de los más importantes de Chile. La laguna es un lugar de gran belleza natural, rodeado de bosques y montañas, ideal para el ecoturismo." skinid="ht_tag_georeferencia_largeRight" target="" id="Point01" title="Laguna Galletué"/>
+      <hotspot tilt="2.16" pan="-257.56" url="images/icalma.jpg" description="2 h 11 min | 82,9 km&#xA;Punto turístico conocido por su lago y termas, es un destino popular para quienes buscan relajación y actividades al aire libre en un entorno natural único." skinid="ht_tag_georeferencia_mediumRight" target="" id="Point01" title="Icalma"/>
+      <hotspot tilt="3.67" pan="-268.04" url="images/icalma.jpg" description="2 h 16 min | 86,7 km&#xA;Paso fronterizo entre Chile y Argentina, es una ruta escénica que conecta ambas naciones, ideal para viajeros que buscan explorar los paisajes andinos y realizar intercambios culturales y comerciales." skinid="ht_tag_georeferencia_smallRight" target="" id="Point01" title="Paso Internacional Icalma"/>
+      <hotspot tilt="4.51" pan="-301.22" url="images/conguillio.jpg" description="36 min | 17,9 km" skinid="ht_tag_georeferencia_mediumLeft" target="" id="Point01" title="Lago Conguillio"/>
+      <hotspot tilt="0.19" pan="-324.56" url="images/captren.jpg" description="21 min | 11,3 km&#xA;Lago poco conocido pero de gran belleza, ubicado en una zona prístina. Es ideal para la pesca, el kayak y la observación de aves, ofreciendo tranquilidad y conexión con la naturaleza." skinid="ht_tag_georeferencia_smallLeft" target="" id="Point01" title="Lago Captren"/>
+      <hotspot tilt="-19.51" pan="-12.72" url="images/ruta-interlagos.jpg" description="Nace en esta zona, extendiéndose por más de 200 km a través de la región lacustre del sur de Chile, ofreciendo paisajes impresionantes y conexión entre lagos y localidades turísticas.&#xA;" skinid="ht_tag_georeferencia_smallRight" target="" id="Point01" title="Ruta Interlagos"/>
+      <hotspot tilt="1.82" pan="-345.34" url="images/Sierra-Nevada.jpg" description="43 min | 23,2  km" skinid="ht_tag_georeferencia_smallRight" target="" id="Point01" title="Centro de Ski"/>
+      <hotspot tilt="3.5" pan="-356.29" url="images/Paso-Mamuil-Malal.jpg" description="4 h 9 min | 275 km" skinid="ht_tag_georeferencia_mediumLeft" target="" id="Point01" title="Paso Mamuil Malal"/>
+      <hotspot tilt="3.03" pan="-4.43" url="images/melipeuco.jpg" description="1 h 23 min | 46,5 km&#xA;Municipio en crecimiento con todos los servicios básicos, como supermercados, farmacias, Carabineros, servicios de emergencia y colegios, ideal para residentes y visitantes." skinid="ht_tag_georeferencia_largeLeft" target="" id="Point01" title="Melipeuco"/>
+      <hotspot tilt="1.81" pan="-10.98" url="images/Lago-Collico.jpg" description="4 h 9 min | 275 km" skinid="ht_tag_georeferencia_largeRight" target="" id="Point01" title="Lago Collico"/>
+      <hotspot tilt="-27.01" pan="-204.44" url="" description="" skinid="ht_tag_georeferencia_mediumRight_Blue" target="_blank" id="Point02" title="Estero Puentes"/>
+      <hotspot tilt="-12.07" pan="-182.15" url="" description="Ruta R-925-S" skinid="ht_tag_georeferencia_smallRightYellow" target="_blank" id="Point02" title="Camino Curacautín a Conguillio"/>
+      <hotspot tilt="-25.08" pan="-5.05" url="" description="" skinid="ht_tag_georeferencia_smallLeft" target="_blank" id="Point01" title="Mirador"/>
+      <hotspot tilt="-20.1" pan="-337.31" url="" description="" skinid="ht_tag_georeferencia_smallRightYellow" target="_blank" id="Point01" title="Ruta a Conguillio"/>
+      <polyhotspot url="" description="" target="_blank" id="Point01" title="Etapa 1">
+        <polystring>-161.05/-43.36|-224.02/-50.06|-226.17/-52.98|-260.71/-70.72|-275.69/-56.29|-306.4/-57.3|-347.79/-42.57|-336.99/-42|-338.22/-33.79|-331.83/-32.87|-328.13/-37.72|-316.6/-44.37|-304.1/-45.78|-272.03/-43.88|-252.76/-38.29|-228.81/-35.66|-222.13/-34.51|-206.14/-32.8|-200.81/-34.32|-196.45/-34.36|-193.95/-34.07|-183.28/-37.57|-177.69/-39.97|-177/-41.38|-178.14/-43.43|-176.67/-44.42|-173.7/-43.95|-171.45/-43.43|-169.56/-42.14|-166.15/-43.54</polystring>
+      </polyhotspot>
+      <polyhotspot url="" description="" target="_blank" id="Point01" title="Etapa 2">
+        <polystring>-160.85/-43.31|-157.81/-48.26|-153.74/-45.88|-133.96/-53.07|-104.19/-52.24|-86.2/-43.49|-78.68/-35.9|-71.38/-38.68|-68.89/-37.32|-65.3/-37.2|-59.41/-38.27|-45.47/-43.13|-36.43/-47.69|-26.82/-46.33|-8.46/-38.65|-2.78/-40.09|-3.08/-38.47|-0.71/-37.85|-355.78/-33.5|-338.08/-33.54|-337.22/-41.99|-348.41/-42.57|-275.97/-56.59|-260.59/-70.88|-224.08/-50.19</polystring>
+      </polyhotspot>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomin="0" zoomout="0" softedge="0" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomfov="20"/>
-    <autorotate enabled="1" speed="0.020" nodefilter="" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" returntohorizon="0.000" delay="20.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextfullscreen="1" hideabout="0" contextprojections="0" invertcontrol="1" simulatemass="1"/>
+    <transition type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="20.00" speed="0.020" noderandom="1" nodefilter="" startloaded="0" enabled="1" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node1">
-    <input levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" overlap="1" levelingpitch="0" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="2048" height="2048" preload="0" predecode="0"/>
-      <level width="1024" height="1024" preload="0" predecode="0"/>
-      <level width="512" height="512" preload="0" predecode="0"/>
-      <level width="256" height="256" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" levelingroll="0" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="0" fov="70" tilt="0"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovstereographic="270" pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90"/>
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120"/>
     </view>
-    <userdata datetime="01-01-1970 0:00" tags="MP" latitude="-38.568959" longitude="-71.787172" author="" source="" description="" nodeid="node1" title="default" copyright="" info="" comment="" customnodeid=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" height="20" background="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" textcolor="0x000000" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    <userdata info="" datetime="01-01-1970 0:00" customnodeid="" description="" author="" nodeid="node1" copyright="" source="" comment="" latitude="-38.568959" tags="MP" longitude="-71.787172" title="default"/>
+    <hotspots height="20" width="0" wordwrap="1">
+      <label height="20" bordercolor="0x000000" textalpha="1" borderalpha="1" background="1" border="0" width="0" backgroundcolor="0xffffff" textcolor="0x363636" wordwrap="1" enabled="1" backgroundalpha="0.588235" borderradius="10"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="0" mode="2" handcursor="1" backgroundcolor="0x4dc618" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomin="0" zoomout="0" softedge="0" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomfov="20"/>
-    <autorotate enabled="1" speed="0.020" nodefilter="" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" returntohorizon="0.000" delay="20.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextfullscreen="1" hideabout="0" contextprojections="0" invertcontrol="1" simulatemass="1"/>
+    <transition type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="20.00" speed="0.020" noderandom="1" nodefilter="" startloaded="0" enabled="1" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node2">
-    <input levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" overlap="1" levelingpitch="0" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="2048" height="2048" preload="0" predecode="0"/>
-      <level width="1024" height="1024" preload="0" predecode="0"/>
-      <level width="512" height="512" preload="0" predecode="0"/>
-      <level width="256" height="256" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" levelingroll="0" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="0" fov="70" tilt="0"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovstereographic="270" pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90"/>
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120"/>
     </view>
-    <userdata datetime="01-01-1970 0:00" tags="MP" latitude="-38.570920" longitude="-71.787731" author="" source="" description="" nodeid="node2" title="default" copyright="" info="" comment="" customnodeid=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" height="20" background="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" textcolor="0x000000" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    <userdata info="" datetime="01-01-1970 0:00" customnodeid="" description="" author="" nodeid="node2" copyright="" source="" comment="" latitude="-38.570920" tags="MP" longitude="-71.787731" title="default"/>
+    <hotspots height="20" width="0" wordwrap="1">
+      <label height="20" bordercolor="0x000000" textalpha="1" borderalpha="1" background="1" border="0" width="0" backgroundcolor="0xffffff" textcolor="0x363636" wordwrap="1" enabled="1" backgroundalpha="0.588235" borderradius="10"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="0" mode="2" handcursor="1" backgroundcolor="0x4dc618" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomin="0" zoomout="0" softedge="0" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomfov="20"/>
-    <autorotate enabled="1" speed="0.020" nodefilter="" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" returntohorizon="0.000" delay="20.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextfullscreen="1" hideabout="0" contextprojections="0" invertcontrol="1" simulatemass="1"/>
+    <transition type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="20.00" speed="0.020" noderandom="1" nodefilter="" startloaded="0" enabled="1" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node3">
-    <input levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" overlap="1" levelingpitch="0" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="2048" height="2048" preload="0" predecode="0"/>
-      <level width="1024" height="1024" preload="0" predecode="0"/>
-      <level width="512" height="512" preload="0" predecode="0"/>
-      <level width="256" height="256" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" levelingroll="0" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="0" fov="70" tilt="0"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovstereographic="270" pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90"/>
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120"/>
     </view>
-    <userdata datetime="01-01-1970 0:00" tags="MP" latitude="-38.570562" longitude="-71.787366" author="" source="" description="" nodeid="node3" title="default" copyright="" info="" comment="" customnodeid=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" height="20" background="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" textcolor="0x000000" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    <userdata info="" datetime="01-01-1970 0:00" customnodeid="" description="" author="" nodeid="node3" copyright="" source="" comment="" latitude="-38.570562" tags="MP" longitude="-71.787366" title="default"/>
+    <hotspots height="20" width="0" wordwrap="1">
+      <label height="20" bordercolor="0x000000" textalpha="1" borderalpha="1" background="1" border="0" width="0" backgroundcolor="0xffffff" textcolor="0x363636" wordwrap="1" enabled="1" backgroundalpha="0.588235" borderradius="10"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="0" mode="2" handcursor="1" backgroundcolor="0x4dc618" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomin="0" zoomout="0" softedge="0" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomfov="20"/>
-    <autorotate enabled="1" speed="0.020" nodefilter="" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" returntohorizon="0.000" delay="20.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextfullscreen="1" hideabout="0" contextprojections="0" invertcontrol="1" simulatemass="1"/>
+    <transition type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="20.00" speed="0.020" noderandom="1" nodefilter="" startloaded="0" enabled="1" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node4">
-    <input levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" overlap="1" levelingpitch="0" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="2048" height="2048" preload="0" predecode="0"/>
-      <level width="1024" height="1024" preload="0" predecode="0"/>
-      <level width="512" height="512" preload="0" predecode="0"/>
-      <level width="256" height="256" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" levelingroll="0" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="0" fov="70" tilt="0"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovstereographic="270" pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90"/>
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120"/>
     </view>
-    <userdata datetime="01-01-1970 0:00" tags="MP" latitude="-38.571211" longitude="-71.788056" author="" source="" description="" nodeid="node4" title="default" copyright="" info="" comment="" customnodeid=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" height="20" background="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" textcolor="0x000000" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    <userdata info="" datetime="01-01-1970 0:00" customnodeid="" description="" author="" nodeid="node4" copyright="" source="" comment="" latitude="-38.571211" tags="MP" longitude="-71.788056" title="default"/>
+    <hotspots height="20" width="0" wordwrap="1">
+      <label height="20" bordercolor="0x000000" textalpha="1" borderalpha="1" background="1" border="0" width="0" backgroundcolor="0xffffff" textcolor="0x363636" wordwrap="1" enabled="1" backgroundalpha="0.588235" borderradius="10"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="0" mode="2" handcursor="1" backgroundcolor="0x4dc618" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomin="0" zoomout="0" softedge="0" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomfov="20"/>
-    <autorotate enabled="1" speed="0.020" nodefilter="" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" returntohorizon="0.000" delay="20.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextfullscreen="1" hideabout="0" contextprojections="0" invertcontrol="1" simulatemass="1"/>
+    <transition type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="20.00" speed="0.020" noderandom="1" nodefilter="" startloaded="0" enabled="1" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node5">
-    <input levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" overlap="1" levelingpitch="0" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level width="2048" height="2048" preload="0" predecode="0"/>
-      <level width="1024" height="1024" preload="0" predecode="0"/>
-      <level width="512" height="512" preload="0" predecode="0"/>
-      <level width="256" height="256" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" levelingroll="0" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="2048" preload="0" width="2048" predecode="0"/>
+      <level height="1024" preload="0" width="1024" predecode="0"/>
+      <level height="512" preload="0" width="512" predecode="0"/>
+      <level height="256" preload="1" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="0" fov="70" tilt="0"/>
-      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovstereographic="270" pan="360" fov="120" scaletofit="1" fovfisheye="360" tilt="90"/>
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120"/>
     </view>
-    <userdata datetime="01-01-1970 0:00" tags="MP" latitude="-38.574656" longitude="-71.787084" author="" source="" description="" nodeid="node5" title="default" copyright="" info="" comment="" customnodeid=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label enabled="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" width="180" height="20" background="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" textcolor="0x000000" border="1"/>
-      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    <userdata info="" datetime="01-01-1970 0:00" customnodeid="" description="" author="" nodeid="node5" copyright="" source="" comment="" latitude="-38.574656" tags="MP" longitude="-71.787084" title="default"/>
+    <hotspots height="20" width="0" wordwrap="1">
+      <label height="20" bordercolor="0x000000" textalpha="1" borderalpha="1" background="1" border="0" width="0" backgroundcolor="0xffffff" textcolor="0x363636" wordwrap="1" enabled="1" backgroundalpha="0.588235" borderradius="10"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="0" mode="2" handcursor="1" backgroundcolor="0x4dc618" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomin="0" zoomout="0" softedge="0" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomfov="20"/>
-    <autorotate enabled="1" speed="0.020" nodefilter="" nodedelay="0.00" useanimation="0" noderandom="1" startloaded="0" returntohorizon="0.000" delay="20.00"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control lockedwheel="0" rubberband="0" lockedkeyboard="0" dblclickfullscreen="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" sensitivity="8" contextfullscreen="1" hideabout="0" contextprojections="0" invertcontrol="1" simulatemass="1"/>
+    <transition type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" useanimation="0" delay="20.00" speed="0.020" noderandom="1" nodefilter="" startloaded="0" enabled="1" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0"/>
   </panorama>
   <masternode>
-    <userdata datetime="" tags="" latitude="" longitude="" author="" source="" description="" nodeid="master" title="Raíces Del Conguillio" copyright="" info="" comment="" customnodeid=""/>
+    <userdata info="" datetime="" customnodeid="" description="" author="" nodeid="master" copyright="" source="" comment="" latitude="" tags="" longitude="" title="Raíces Del Conguillio"/>
   </masternode>
 </tour>
